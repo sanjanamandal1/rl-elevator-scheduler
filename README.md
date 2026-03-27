@@ -202,15 +202,6 @@ After running `main.py` or `resume.py`, model weights are saved as:
 
 ---
 
-## 📄 Report
-
-A full project report is included:
-[`RL_Elevator_Scheduling_Report.docx`](./RL_Elevator_Scheduling_Report.docx)
-
-Covers architecture, agent implementations, hyperparameter tuning,
-results analysis, and conclusions.
-
----
 
 ## 🔮 Future Work
 
